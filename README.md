@@ -1,1 +1,1 @@
-# Creative_Idea_Contest1
+# 창작 SW 아이디어 공모전 대회 작성 문서입니다
